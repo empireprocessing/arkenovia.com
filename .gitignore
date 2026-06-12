@@ -7,3 +7,8 @@ dist-ssr
 .vscode/*
 !.vscode/extensions.json
 generate-images.mjs
+
+# tsc -b build artifacts
+vite.config.d.ts
+vite.config.js
+*.tsbuildinfo
